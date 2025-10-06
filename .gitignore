@@ -1,0 +1,26 @@
+﻿# Android / Gradle / IDE
+*.iml
+.gradle/
+.local.properties
+.idea/
+.DS_Store
+/build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+# Bundles & APKs
+*.apk
+*.ap_
+*.aab
+# Keystores (never commit these)
+*.keystore
+*.jks
+# Crash/heap dumps & logs
+*.hprof
+*.log
+# Misc
+*.zip
+*.7z
+# Python cache (if any)
+__pycache__/
